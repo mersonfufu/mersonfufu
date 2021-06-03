@@ -43,6 +43,7 @@ echo Password...
 set /p Password=
 if %Opcao% EQU 1 set Texto=Criptografando
 if %Opcao% EQU 1 set Parametro=e
+if %Opcao% EQU 1 move "Utilidades [SMx32]"\*.aes %cd%
 if %Opcao% EQU 2 set Texto=Descriptografando
 if %Opcao% EQU 2 set Parametro=d
 if %Opcao% EQU 2 set ext=aes
@@ -52,6 +53,7 @@ for /f "tokens=*" %%a in ('dir/a-d/b "Utilidades [SMx32]"\*.%ext%') do (
 	if %Opcao%==1 if exist "Utilidades [SMx32]\%%a.aes" del "Utilidades [SMx32]\%%a"
 	if %Opcao%==2 if exist "Utilidades [SMx32]\%%~na" del "Utilidades [SMx32]\%%a"
 )
+move *.aes "Utilidades [SMx32]"
 goto FIM
 
 :FIM
