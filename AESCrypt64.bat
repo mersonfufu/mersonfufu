@@ -49,7 +49,7 @@ if %Opcao% EQU 2 set Parametro=d
 if %Opcao% EQU 2 set ext=aes
 for /f "tokens=*" %%a in ('dir/a-d/b "Utilidades [SMx32]"\*.%ext%') do (
 	echo %Texto% "Utilidades [SMx32]\%%a"
-	0AESCrypt64.exe -%Parametro% -p %Password% "Utilidades [SMx32]\%%a"
+	AESCrypt64.exe -%Parametro% -p %Password% "Utilidades [SMx32]\%%a"
 	if %Opcao%==1 if exist "Utilidades [SMx32]\%%a.aes" del "Utilidades [SMx32]\%%a"
 	if %Opcao%==2 if exist "Utilidades [SMx32]\%%~na" del "Utilidades [SMx32]\%%a"
 )

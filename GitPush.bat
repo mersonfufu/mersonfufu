@@ -5,14 +5,16 @@
 ::  */
 
 :: APARENCIA
-color 0A
-mode 80,15
+:: color 0A
+:: mode 80,15
 
 :INICIO
 echo Commit message...
 set /p Commit=
 git add -A
+echo.
 git commit -m "%Commit%"
+echo.
 git push
 
 :FIM
