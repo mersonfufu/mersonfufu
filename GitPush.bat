@@ -16,6 +16,7 @@ echo.
 git commit -m "%Commit%"
 echo.
 git push
+echo.
+pause
 
 :FIM
-exit
