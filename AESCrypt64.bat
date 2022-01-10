@@ -1,7 +1,7 @@
 @echo off
 :: /**
 ::  * mersonfufu@gmail.com
-::  * ultima update em 14:37 31/05/2021
+::  * ultima update em 17:44 10/01/2022
 ::  */
 
 :: APARENCIA
@@ -10,6 +10,7 @@ mode 60,15
 
 :INICIO
 set ext=*
+set Pasta=Utilidades [SMVMTx2]
 
 :MENU
 cls
@@ -43,17 +44,17 @@ echo Password...
 set /p Password=
 if %Opcao% EQU 1 set Texto=Criptografando
 if %Opcao% EQU 1 set Parametro=e
-if %Opcao% EQU 1 move "Utilidades [SMx32]"\*.aes %cd%
+if %Opcao% EQU 1 move "%Pasta%"\*.aes %cd%
 if %Opcao% EQU 2 set Texto=Descriptografando
 if %Opcao% EQU 2 set Parametro=d
 if %Opcao% EQU 2 set ext=aes
-for /f "tokens=*" %%a in ('dir/a-d/b "Utilidades [SMx32]"\*.%ext%') do (
-	echo %Texto% "Utilidades [SMx32]\%%a"
-	AESCrypt64.exe -%Parametro% -p %Password% "Utilidades [SMx32]\%%a"
-	if %Opcao%==1 if exist "Utilidades [SMx32]\%%a.aes" del "Utilidades [SMx32]\%%a"
-	if %Opcao%==2 if exist "Utilidades [SMx32]\%%~na" del "Utilidades [SMx32]\%%a"
+for /f "tokens=*" %%a in ('dir/a-d/b "%Pasta%"\*.%ext%') do (
+	echo %Texto% "%Pasta%\%%a"
+	AESCrypt64.exe -%Parametro% -p %Password% "%Pasta%\%%a"
+	if %Opcao%==1 if exist "%Pasta%\%%a.aes" del "%Pasta%\%%a"
+	if %Opcao%==2 if exist "%Pasta%\%%~na" del "%Pasta%\%%a"
 )
-move *.aes "Utilidades [SMx32]"
+move *.aes "%Pasta%"
 goto FIM
 
 :FIM

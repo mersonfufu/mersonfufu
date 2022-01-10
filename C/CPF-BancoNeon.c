@@ -98,7 +98,6 @@ int main(){
 			}
 			fprintf(arquivo, "\n");
 		}
-		
 		//interacao
 		meio++;
 	}
