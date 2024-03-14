@@ -1,0 +1,3 @@
+CleanNumber = {{text.s("\\D","")}}
+
+WhatsApp = https://web.whatsapp.com/send?phone=55{{text.s("\\D","")}}

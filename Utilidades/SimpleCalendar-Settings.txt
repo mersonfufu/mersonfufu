@@ -1,5 +1,0 @@
-start_weekly_at=12
-reminder_minutes=-1
-font_size=0
-default_duration=100
-snooze_delay=0

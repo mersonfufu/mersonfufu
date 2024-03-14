@@ -1,0 +1,50 @@
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+
+; -- Common Information
+
+[Scheme.Cur]
+Alternate Select.cur
+Busy.cur
+Diagonal Resize 1.cur
+Diagonal Resize 2.cur
+Handwriting.cur
+Help.cur
+Horizontal Resize.cur
+Link Select.cur
+Move.cur
+Normal.cur
+Precision Select.cur
+Text Select.cur
+Unavailable.cur
+Vertical Resize.cur
+Working.cur
+
+[Strings]
+CUR_DIR       = "Cursors\NOME"
+SCHEME_NAME   = "NOME"
+alternate     = "Alternate Select.cur"
+busy          = "Busy.cur"
+dgn1          = "Diagonal Resize 1.cur"
+dgn2          = "Diagonal Resize 2.cur"
+hand          = "Handwriting.cur"
+help          = "Help.cur"
+horz          = "Horizontal Resize.cur"
+link          = "Link Select.cur"
+move          = "Move.cur"
+pointer       = "Normal.cur"
+cross         = "Precision Select.cur"
+text          = "Text Select.cur"
+unavailiable  = "Unavailable.cur"
+vert          = "Vertical Resize.cur"
+work          = "Working.cur"
