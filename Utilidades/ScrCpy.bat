@@ -13,7 +13,7 @@ set Path=
 :INICIO
 
 :: COMANDOS
-for /f "tokens=*" %%d in ('dir /ad/b') do (set "Path=%%d")
+for /f "tokens=*" %%d in ('dir /ad/b scrcpy*') do (set "Path=%%d")
 cd %Path%
 scrcpy -f --lock-video-orientation=270 --record=Video_e0001.mp4
 
