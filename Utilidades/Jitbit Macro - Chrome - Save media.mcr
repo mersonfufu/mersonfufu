@@ -1,5 +1,6 @@
-Keyboard : ControlLeft : KeyDown
-Mouse : 515 : 100 : Click : 0 : 0 : 0
-Keyboard : ControlLeft : KeyUp
-Mouse : 1200 : 480 : Click : 0 : 0 : 0
-DELAY : 1000
+Mouse : 680 : 384 : RightClick : 0 : 0 : 0
+DELAY : 100
+Keyboard : I : KeyPress
+DELAY : 100
+Keyboard : Right : KeyPress
+DELAY : 500
