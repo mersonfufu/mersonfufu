@@ -59,13 +59,13 @@ RAlt::#PrintScreen  ; RAlt = Win + Print Screen
 RCtrl::AppsKey      ; RCTRL = Apps
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Mega Man X Legacy
-;j::x               ;shot
-;k::z               ;jump
-;l::a               ;dash
-;e::d               ;left weapon
-;u::c               ;right weapon
-;w::Up              ;up
-;s::Down            ;down
-;a::Left            ;left
-;d::Right           ;right
-;f::s               ;save
+;j::x               ; Shot
+;k::z               ; Jump
+;l::a               ; Dash
+;e::d               ; Left weapon
+;u::c               ; Right weapon
+;w::Up              ; Up
+;s::Down            ; Down
+;a::Left            ; Left
+;d::Right           ; Right
+;f::s               ; Save
