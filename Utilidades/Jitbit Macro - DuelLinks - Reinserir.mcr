@@ -274,4 +274,5 @@ Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
 Mouse : 425 : 745 : Click : 0 : 0 : 0
+DELAY : 50
 Mouse : 775 : 450 : Move : 0 : 0 : 0
