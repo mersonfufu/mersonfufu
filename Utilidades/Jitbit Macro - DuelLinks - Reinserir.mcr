@@ -1,5 +1,10 @@
 COMMENT : MP4 30fps, ratefactor-based 12, left 396, width 970, top 0, height 768
 
+Mouse : 1000 : 50 : Click : 0 : 0 : 0
+DELAY : 100
+Mouse : 1350 : 200 : Click : 0 : 0 : 0
+DELAY : 50
+
 Mouse : 450 : 250 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
@@ -275,4 +280,4 @@ DELAY : 50
 
 Mouse : 425 : 745 : Click : 0 : 0 : 0
 DELAY : 50
-Mouse : 775 : 450 : Move : 0 : 0 : 0
+Mouse : 775 : 470 : Move : 0 : 0 : 0
