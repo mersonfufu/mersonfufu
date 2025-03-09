@@ -1,272 +1,272 @@
 COMMENT : MP4 30fps, ratefactor-based 12, left 396, width 970, top 0, height 768
 
-Mouse : 450 : 200 : RightClick : 0 : 0 : 0
+Mouse : 450 : 250 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 500 : 200 : RightClick : 0 : 0 : 0
+Mouse : 500 : 250 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 550 : 200 : RightClick : 0 : 0 : 0
+Mouse : 550 : 250 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 600 : 200 : RightClick : 0 : 0 : 0
+Mouse : 600 : 250 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 650 : 200 : RightClick : 0 : 0 : 0
+Mouse : 650 : 250 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 700 : 200 : RightClick : 0 : 0 : 0
+Mouse : 700 : 250 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 750 : 200 : RightClick : 0 : 0 : 0
+Mouse : 750 : 250 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 800 : 200 : RightClick : 0 : 0 : 0
+Mouse : 800 : 250 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 850 : 200 : RightClick : 0 : 0 : 0
+Mouse : 850 : 250 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 900 : 200 : RightClick : 0 : 0 : 0
+Mouse : 900 : 250 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 450 : 300 : RightClick : 0 : 0 : 0
+Mouse : 450 : 330 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 500 : 300 : RightClick : 0 : 0 : 0
+Mouse : 500 : 330 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 550 : 300 : RightClick : 0 : 0 : 0
+Mouse : 550 : 330 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 600 : 300 : RightClick : 0 : 0 : 0
+Mouse : 600 : 330 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 650 : 300 : RightClick : 0 : 0 : 0
+Mouse : 650 : 330 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 700 : 300 : RightClick : 0 : 0 : 0
+Mouse : 700 : 330 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 750 : 300 : RightClick : 0 : 0 : 0
+Mouse : 750 : 330 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 800 : 300 : RightClick : 0 : 0 : 0
+Mouse : 800 : 330 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 850 : 300 : RightClick : 0 : 0 : 0
+Mouse : 850 : 330 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 900 : 300 : RightClick : 0 : 0 : 0
+Mouse : 900 : 330 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 450 : 400 : RightClick : 0 : 0 : 0
+Mouse : 450 : 410 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 500 : 400 : RightClick : 0 : 0 : 0
+Mouse : 500 : 410 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 550 : 400 : RightClick : 0 : 0 : 0
+Mouse : 550 : 410 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 600 : 400 : RightClick : 0 : 0 : 0
+Mouse : 600 : 410 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 650 : 400 : RightClick : 0 : 0 : 0
+Mouse : 650 : 410 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 700 : 400 : RightClick : 0 : 0 : 0
+Mouse : 700 : 410 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 750 : 400 : RightClick : 0 : 0 : 0
+Mouse : 750 : 410 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 800 : 400 : RightClick : 0 : 0 : 0
+Mouse : 800 : 410 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 850 : 400 : RightClick : 0 : 0 : 0
+Mouse : 850 : 410 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 900 : 400 : RightClick : 0 : 0 : 0
+Mouse : 900 : 410 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 450 : 600 : RightClick : 0 : 0 : 0
+Mouse : 450 : 640 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 500 : 600 : RightClick : 0 : 0 : 0
+Mouse : 500 : 640 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 550 : 600 : RightClick : 0 : 0 : 0
+Mouse : 550 : 640 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 600 : 600 : RightClick : 0 : 0 : 0
+Mouse : 600 : 640 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 650 : 600 : RightClick : 0 : 0 : 0
+Mouse : 650 : 640 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 700 : 600 : RightClick : 0 : 0 : 0
+Mouse : 700 : 640 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 750 : 600 : RightClick : 0 : 0 : 0
+Mouse : 750 : 640 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 800 : 600 : RightClick : 0 : 0 : 0
+Mouse : 800 : 640 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1345 : 625 : Click : 0 : 0 : 0
 DELAY : 50
 
-Mouse : 850 : 600 : RightClick : 0 : 0 : 0
+Mouse : 850 : 640 : RightClick : 0 : 0 : 0
 DELAY : 50
 Mouse : 1000 : 675 : RightClick : 0 : 0 : 0
 DELAY : 50
