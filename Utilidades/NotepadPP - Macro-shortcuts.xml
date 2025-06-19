@@ -5027,6 +5027,38 @@ Adicionais -->
 			<Action type="3" message="1702" wParam="0" lParam="898" sParam="" />
 			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
 		</Macro>
+		<Macro name="[XPlus] Revisar arquivos" Ctrl="no" Alt="no" Shift="no" Key="0">
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="\d{4}-\d{2}-\d{2}_\d{2}-\d{2}-\d{2}_(m|e)\d{4}..{3,4}" />
+			<Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1702" wParam="0" lParam="770" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="\d{4}-\d{2}-\d{2}_\d{2}-\d{2}-\d{2}..{3,4}" />
+			<Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1702" wParam="0" lParam="770" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="\d{4}-\d{2}-\d{2}_e\d{4}..{3,4}" />
+			<Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1702" wParam="0" lParam="770" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="\d{4}_data\d{4}_e\d{4}..{3,4}" />
+			<Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1702" wParam="0" lParam="770" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="e\d{4}.{3,4}" />
+			<Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1702" wParam="0" lParam="770" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+		</Macro>
 		<Macro name="Criar colunaZ" Ctrl="no" Alt="no" Shift="no" Key="0">
 			<Action type="0" message="2013" wParam="0" lParam="0" sParam="" />
 			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
